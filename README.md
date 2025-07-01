@@ -25,7 +25,8 @@ To run the simulation:
 3. Set `presentation_layer` as the startup project and run.
 
 ## Authors
-- [Your Name]
+- Jakub Lasota
+- Arkadiusz Młynarczyk
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
